@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Toyama70
+- 👀 I’m interested in coding, music and a few other things.
+- 🌱 I’m currently learning C, mainly.
