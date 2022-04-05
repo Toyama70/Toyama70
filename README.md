@@ -4,7 +4,7 @@ This Github contains some projects donc by me, in a non-exhaustive way, for scho
 
 # Remarks
 
-C++ programs have no restrictions except using C++98 and standard libraries.
+[update] C++ programs have no restrictions except using C++98 and standard libraries. So the rules written below do not apply to C++ projects in the repositories.
 
 
 The projects on this Github are mostly made for school, so a few aspects of my work have to be explained beforehand, all applying strictly to C programming because of the school rules : 
