@@ -1,3 +1,6 @@
+# [DEPRECATED] I have been using work repos (private) for one year and a half. This github contains only projects done when I was a student.
+
+
 # Introduction
 
 This Github contains some projects donc by me, in a non-exhaustive way, for school. 
